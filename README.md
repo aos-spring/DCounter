@@ -1,4 +1,0 @@
-DCounter
-========
-
-distribution counter
